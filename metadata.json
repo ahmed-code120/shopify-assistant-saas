@@ -1,0 +1,8 @@
+{
+  "name": "StoreBoost AI",
+  "description": "High-performance Shopify conversion optimization platform using AI to transform product URLs into high-converting sales assets.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
